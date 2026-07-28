@@ -10,6 +10,14 @@
 {{ content_for_layout }}
 ```
 
+
+## Support template-specific CSS selectors
+
+
+```html
+<body className="template-{{ template.name }}">
+```
+
 ## Ref
 
 * [Layouts - Overview](https://shopify.dev/docs/storefronts/themes/architecture/layouts)
