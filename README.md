@@ -1,7 +1,7 @@
 # Hey Shopify 26
 
 
-
+- [015 Shopify GitHub integration for themes](./015/)
 - [016 了解 Shopify 中的模板许可和转移](./016/)
 
 ## Ref
