@@ -2,6 +2,8 @@
 
 
 
+- [016 了解 Shopify 中的模板许可和转移](./016/)
+
 ## Ref
 
 - [Shopify官网（https://www.shopify.com/）](https://www.shopify.com/)
