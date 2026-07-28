@@ -10,4 +10,4 @@
 ## Ref
 
 - <https://shopify.dev/docs/storefronts>
-- [Shopify CLI Theme commands](https://shopify.dev/docs/api/shopify-cli/theme)
+
