@@ -15,6 +15,7 @@ apt-get install git git-lfs git-extras
 
 ```bash
 mise use -g npm:@shopify/cli@latest
+shopify version
 ```
 
 ### ~~Upgrade Shopify CLI~~
