@@ -8,14 +8,6 @@
 
 ---
 
-```json
-{
-	"sections": {},
-	"order": []
-}
-```
-
-## `custom css setting`
 
 
 ## Render an alternate template(使用备用模版)
@@ -26,5 +18,5 @@
 ```
 ## Ref
 
-* [Templates - Overview](https://shopify.dev/docs/storefronts/themes/architecture/templates)
+
 * [JSON templates](https://shopify.dev/docs/storefronts/themes/architecture/templates/json-templates)
